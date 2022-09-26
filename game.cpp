@@ -1,6 +1,4 @@
 #include<iostream>
-
-
 using namespace std;
 
 void guess_number(int choice)
