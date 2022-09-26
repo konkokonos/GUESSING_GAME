@@ -6,7 +6,7 @@ using namespace std;
 void guess_number(int choice)
 {
 	int random = rand() % 20;
-	cout<< "The number is: " << random <<endl;
+	//cout<< "The number is: " << random <<endl;
 	while(true)
 	{
 		int guess;
