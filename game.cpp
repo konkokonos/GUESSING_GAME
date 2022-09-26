@@ -73,7 +73,6 @@ void menu()
 int main()
 {
 	srand(time(NULL));
-	
 	cout<< "----------Let's play a guessing Game----------"<< endl;
 	menu();	
 }
